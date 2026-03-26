@@ -1,52 +1,45 @@
-name: Scraper ANAPEC El Jadida
+name: Scraper ANAPEC
 
+# 🔹 Déclencheurs
 on:
   schedule:
-    # Chaque jour à 7h00 (heure Maroc = UTC+1, donc 6h UTC)
-    - cron: '0 6 * * *'
-  # Permet aussi de lancer manuellement depuis GitHub
-  workflow_dispatch:
+    - cron: "0 7 * * *"  # tous les jours à 07:00 UTC
+  workflow_dispatch:     # permet de lancer manuellement
 
 jobs:
-  scraper:
+  run-scraper:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Télécharger le code
-        uses: actions/checkout@v4
+      # 1️⃣ Vérifier le dépôt
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Installer Python 3.11
+      # 2️⃣ Installer Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: "3.x"
 
-      - name: Installer les dépendances
+      # 3️⃣ Installer les dépendances
+      - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 lxml
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # si tu as un fichier requirements.txt
+          # ou pip install requests beautifulsoup4 si tu n'as pas requirements.txt
 
-      - name: Lancer le scraper ANAPEC
+      # 4️⃣ Exécuter le scraper
+      - name: Run scraper
         run: python scraper.py
 
-      - name: Vérifier les données collectées
+      # 5️⃣ Commit & push automatiquement les offres
+      - name: Commit and push updated JSON
         run: |
-          if [ -f data/offres.json ]; then
-            echo "✓ offres.json créé"
-            python -c "
-          import json
-          with open('data/offres.json') as f:
-              d = json.load(f)
-          print(f'  Total : {d[\"total\"]} offres')
-          print(f'  Date  : {d[\"date_maj\"]}')
-          "
-          else
-            echo "✗ offres.json absent"
-            exit 1
-          fi
-
-      - name: Publier les données sur GitHub
-        run: |
-          git config user.name  "ANAPEC Scraper Bot"
-          git config user.email "bot@emploi-eljadida.github.io"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/offres.json
-          git diff --staged --quiet || git commit -m "Mise à jour offres ANAPEC - $(date '+%d/%m/%Y %H:%M')"
+          git diff --quiet && echo "No changes to commit" || git commit -m "Mise à jour offres automatique"
           git push
+        env:
+          # Utiliser le token fourni par GitHub Actions pour push
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
