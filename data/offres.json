@@ -1,1 +1,5 @@
-data/offres.json
+{
+  "date_maj": "En attente du premier scraping...",
+  "total": 0,
+  "offres": []
+}
