@@ -3,7 +3,7 @@ name: Scraper Test
 on:
   push:
     branches:
-      - main  # ou master selon ta branche
+      - main
 
 jobs:
   run-scraper:
@@ -20,8 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # si tu as besoin de modules Python, ajoute-les ici
-          # ex: pip install requests beautifulsoup4
+          pip install requests beautifulsoup4
 
       - name: Run scraper
         run: python scraper.py
