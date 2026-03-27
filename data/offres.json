@@ -1,7 +1,23 @@
 {
-  "date_maj": "26/03/2026 à 21:21",
-  "total": 19,
+  "date_maj": "27/03/2026 à 12:33",
+  "total": 20,
   "offres": [
+    {
+      "id": "1101245",
+      "ref": "EL2703261101245",
+      "date": "27/03/2026",
+      "titre": "Technicien d'hygiène et de sécurité",
+      "nb": "1",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1101245/resultat_recherche",
+      "agence": "EL JADIDA / Maria",
+      "secteur": "",
+      "type_contrat": "CDI",
+      "formation": "Bac + 2",
+      "experience": "(3 ans - 5 ans)",
+      "date_debut": "06/04/2026",
+      "description": "- pilote des projets d’améliorations de la performance industrielle (productivité, flux, qualité, sécurité…). -anime les chantiers pilotes des équipes autonomes de production. -forme le personnel aux outils de pilotage de performance et d’amélioration. -s’assure sur le terrain de la conformité de fonctionnement des ateliers aux standards de contrôle et d’amélioration de la performance. -capitalise les bonnes pratiques, les formalise et les diffuse au sein des ateliers. -suit les tableaux de bord"
+    },
     {
       "id": "1101217",
       "ref": "EL2603261101217",
@@ -17,6 +33,22 @@
       "experience": "",
       "date_debut": "",
       "description": "Âge :20-40 ans Bien nager"
+    },
+    {
+      "id": "1100415",
+      "ref": "EL2503261100415",
+      "date": "25/03/2026",
+      "titre": "Assistante Médicale",
+      "nb": "1",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1100415/resultat_recherche",
+      "agence": "EL JADIDA / ZAIM",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Technicien",
+      "experience": "(moins de 6 mois)",
+      "date_debut": "",
+      "description": ""
     },
     {
       "id": "1100696",
@@ -48,38 +80,6 @@
       "formation": "Baccalauréat",
       "experience": "(moins de 6 mois)",
       "date_debut": "",
-      "description": ""
-    },
-    {
-      "id": "1100415",
-      "ref": "EL2503261100415",
-      "date": "25/03/2026",
-      "titre": "Assistante Médicale",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1100415/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "",
-      "description": ""
-    },
-    {
-      "id": "1100243",
-      "ref": "EL2403261100243",
-      "date": "24/03/2026",
-      "titre": "Aide Pharmacien (H)",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1100243/resultat_recherche",
-      "agence": "EL JADIDA / JADA",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Baccalauréat",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "01/04/2026",
       "description": ""
     },
     {
@@ -115,13 +115,29 @@
       "description": ""
     },
     {
-      "id": "1099824",
-      "ref": "EL1903261099824",
-      "date": "19/03/2026",
-      "titre": "Soudeur Moulage (H)",
+      "id": "1100243",
+      "ref": "EL2403261100243",
+      "date": "24/03/2026",
+      "titre": "Aide Pharmacien (H)",
       "nb": "1",
       "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1099824/resultat_recherche",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1100243/resultat_recherche",
+      "agence": "EL JADIDA / JADA",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Baccalauréat",
+      "experience": "(moins de 6 mois)",
+      "date_debut": "01/04/2026",
+      "description": ""
+    },
+    {
+      "id": "1099825",
+      "ref": "EL1903261099825",
+      "date": "19/03/2026",
+      "titre": "Agent Découpage Aluminium (H)",
+      "nb": "1",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1099825/resultat_recherche",
       "agence": "EL JADIDA / JADA",
       "secteur": "",
       "type_contrat": "CI",
@@ -147,6 +163,22 @@
       "description": ""
     },
     {
+      "id": "1099824",
+      "ref": "EL1903261099824",
+      "date": "19/03/2026",
+      "titre": "Soudeur Moulage (H)",
+      "nb": "1",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1099824/resultat_recherche",
+      "agence": "EL JADIDA / JADA",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Diplôme de qualification professionnelle",
+      "experience": "(6 mois - 1 an)",
+      "date_debut": "01/04/2026",
+      "description": ""
+    },
+    {
       "id": "1099822",
       "ref": "EL1903261099822",
       "date": "19/03/2026",
@@ -158,22 +190,6 @@
       "secteur": "",
       "type_contrat": "CI",
       "formation": "Baccalauréat",
-      "experience": "(6 mois - 1 an)",
-      "date_debut": "01/04/2026",
-      "description": ""
-    },
-    {
-      "id": "1099825",
-      "ref": "EL1903261099825",
-      "date": "19/03/2026",
-      "titre": "Agent Découpage Aluminium (H)",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1099825/resultat_recherche",
-      "agence": "EL JADIDA / JADA",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Diplôme de qualification professionnelle",
       "experience": "(6 mois - 1 an)",
       "date_debut": "01/04/2026",
       "description": ""
@@ -275,22 +291,6 @@
       "description": ""
     },
     {
-      "id": "1095704",
-      "ref": "EL0903261095704",
-      "date": "09/03/2026",
-      "titre": "1 Contrôleur De Gestion",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1095704/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Bac + 5, master privé, MBA",
-      "experience": "(1 an - 2 ans)",
-      "date_debut": "",
-      "description": ""
-    },
-    {
       "id": "1096045",
       "ref": "EL0903261096045",
       "date": "09/03/2026",
@@ -305,6 +305,22 @@
       "experience": "(moins de 6 mois)",
       "date_debut": "01/04/2026",
       "description": "- Opértrateurs (ces) sur machine automatiques en production électrique ou électronique"
+    },
+    {
+      "id": "1095704",
+      "ref": "EL0903261095704",
+      "date": "09/03/2026",
+      "titre": "1 Contrôleur De Gestion",
+      "nb": "1",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1095704/resultat_recherche",
+      "agence": "EL JADIDA / ZAIM",
+      "secteur": "",
+      "type_contrat": "CDI",
+      "formation": "Bac + 5, master privé, MBA",
+      "experience": "(1 an - 2 ans)",
+      "date_debut": "",
+      "description": ""
     }
   ]
 }
