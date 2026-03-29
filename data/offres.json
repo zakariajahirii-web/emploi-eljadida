@@ -1,6 +1,6 @@
 {
-  "date_maj": "27/03/2026 à 12:33",
-  "total": 20,
+  "date_maj": "29/03/2026 à 19:08",
+  "total": 18,
   "offres": [
     {
       "id": "1101245",
@@ -287,38 +287,6 @@
       "type_contrat": "CDI",
       "formation": "Bac + 2",
       "experience": "(6 mois - 1 an)",
-      "date_debut": "",
-      "description": ""
-    },
-    {
-      "id": "1096045",
-      "ref": "EL0903261096045",
-      "date": "09/03/2026",
-      "titre": "- OPÉRATEURS ET OPÉRATRICES (H/F) AVEC DIPLÔME BAC -  CQP OU SANS DIPLÔME (Niveau 4ème Année Et Plus )",
-      "nb": "100",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1096045/resultat_recherche",
-      "agence": "EL JADIDA / Maria",
-      "secteur": "",
-      "type_contrat": "Choix Multiple: (40) CDI, (60) CI,",
-      "formation": "Baccalauréat",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "01/04/2026",
-      "description": "- Opértrateurs (ces) sur machine automatiques en production électrique ou électronique"
-    },
-    {
-      "id": "1095704",
-      "ref": "EL0903261095704",
-      "date": "09/03/2026",
-      "titre": "1 Contrôleur De Gestion",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1095704/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Bac + 5, master privé, MBA",
-      "experience": "(1 an - 2 ans)",
       "date_debut": "",
       "description": ""
     }
