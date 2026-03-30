@@ -1,6 +1,6 @@
 {
-  "date_maj": "29/03/2026 à 19:08",
-  "total": 18,
+  "date_maj": "30/03/2026 à 08:52",
+  "total": 17,
   "offres": [
     {
       "id": "1101245",
@@ -272,22 +272,6 @@
       "formation": "Baccalauréat",
       "experience": "(moins de 6 mois)",
       "date_debut": "23/03/2026",
-      "description": ""
-    },
-    {
-      "id": "1096291",
-      "ref": "EL1003261096291",
-      "date": "10/03/2026",
-      "titre": "EDUCTARICE MATERNELLE ET PRIMAIRE",
-      "nb": "4",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1096291/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Bac + 2",
-      "experience": "(6 mois - 1 an)",
-      "date_debut": "",
       "description": ""
     }
   ]
