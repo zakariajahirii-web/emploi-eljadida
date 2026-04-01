@@ -1,34 +1,45 @@
 name: Scraper ANAPEC
 
+# 🔹 Déclencheurs
 on:
   schedule:
-    - cron: "0 7 * * *"
-  workflow_dispatch:
+    - cron: "0 7 * * *"  # tous les jours à 07:00 UTC
+  workflow_dispatch:     # permet de lancer manuellement
 
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      # 1️⃣ Vérifier le dépôt
+      - name: Checkout repository
         uses: actions/checkout@v3
 
+      # 2️⃣ Installer Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.x"
 
-      - name: Install deps
+      # 3️⃣ Installer les dépendances
+      - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # si tu as un fichier requirements.txt
+          # ou pip install requests beautifulsoup4 si tu n'as pas requirements.txt
 
+      # 4️⃣ Exécuter le scraper
       - name: Run scraper
         run: python scraper.py
 
-      - name: Commit & Push
+      # 5️⃣ Commit & push automatiquement les offres
+      - name: Commit and push updated JSON
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/offres.json
-          git diff --quiet || git commit -m "update offres"
+          git diff --quiet && echo "No changes to commit" || git commit -m "Mise à jour offres automatique"
           git push
+        env:
+          # Utiliser le token fourni par GitHub Actions pour push
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
