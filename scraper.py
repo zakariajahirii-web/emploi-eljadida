@@ -13,7 +13,7 @@ try: requests.packages.urllib3.disable_warnings()
 except: pass
 
 # Lus depuis les secrets GitHub Actions
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "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")
 GITHUB_USER  = os.environ.get("GITHUB_USER",  "zakariajahirii-web")
 GITHUB_REPO  = os.environ.get("GITHUB_REPO",  "emploi-eljadida")
 
