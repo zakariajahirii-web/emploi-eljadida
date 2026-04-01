@@ -1,10 +1,11 @@
 """
 scraper.py — ANAPEC El Jadida
-A mettre a la RACINE du repo GitHub: emploi-eljadida
-S'execute automatiquement via GitHub Actions chaque matin
+Tourne sur PythonAnywhere chaque matin (gratuit)
+Publie automatiquement sur GitHub Pages via API
+Votre PC peut rester ETEINT
 """
 
-import requests, json, re, time, warnings, base64, os
+import requests, json, re, time, warnings, base64
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
@@ -12,10 +13,15 @@ warnings.filterwarnings("ignore")
 try: requests.packages.urllib3.disable_warnings()
 except: pass
 
-# Lus depuis les secrets GitHub Actions
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "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")
+# ══════════════════════════════════════════════════════
+#  CONFIGURATION — lues depuis les variables Render
+#  (ou modifiez directement si vous lancez en local)
+# ══════════════════════════════════════════════════════
+import os
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 GITHUB_USER  = os.environ.get("GITHUB_USER",  "zakariajahirii-web")
 GITHUB_REPO  = os.environ.get("GITHUB_REPO",  "emploi-eljadida")
+# ══════════════════════════════════════════════════════
 
 BASE   = "https://www.anapec.org/sigec-app-rv"
 LISTE  = BASE + "/chercheurs/resultat_recherche/page:{p}/appcle:toutlesmot/ville:181/language:fr"
@@ -29,7 +35,7 @@ HEADERS = {
 }
 
 def log(msg):
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
 
 def get(url, essais=3):
     s = requests.Session()
@@ -195,7 +201,8 @@ def enrichir(offre):
 
 
 def publier_github(offres):
-    if not GITHUB_TOKEN:
+    """Publie offres.json sur GitHub via l'API — sans git, sans PC."""
+    if "XXXX" in GITHUB_TOKEN.upper():
         log("Token GitHub non configuré — publication ignorée")
         return False
 
@@ -214,6 +221,7 @@ def publier_github(offres):
         "Accept": "application/vnd.github.v3+json",
     }
 
+    # Récupérer le SHA du fichier existant
     sha = None
     try:
         r = requests.get(api_url, headers=headers_gh, timeout=15)
@@ -244,7 +252,7 @@ def publier_github(offres):
         return False
 
 
-if __name__ == "__main__":
+def run():
     log(f"SCRAPER ANAPEC El Jadida — {datetime.now().strftime('%d/%m/%Y %H:%M')}")
     offres, ids_vus = [], set()
 
@@ -265,6 +273,11 @@ if __name__ == "__main__":
             break
         time.sleep(1.5)
 
+    return offres
+
+
+if __name__ == "__main__":
+    offres = run()
     if offres:
         os.makedirs("data", exist_ok=True)
         data = {
@@ -277,5 +290,4 @@ if __name__ == "__main__":
         log(f"TOTAL: {len(offres)} offres sauvegardees")
         publier_github(offres)
     else:
-        log("ECHEC: 0 offres trouvees")
-        raise SystemExit(1)
+        log("ECHEC: 0 offres")
