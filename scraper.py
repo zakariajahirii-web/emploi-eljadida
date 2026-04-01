@@ -1,11 +1,10 @@
 """
 scraper.py — ANAPEC El Jadida
-Tourne sur PythonAnywhere chaque matin (gratuit)
-Publie automatiquement sur GitHub Pages via API
-Votre PC peut rester ETEINT
+A mettre a la RACINE du repo GitHub: emploi-eljadida
+S'execute automatiquement via GitHub Actions chaque matin
 """
 
-import requests, json, re, time, warnings, base64
+import requests, json, re, time, warnings, base64, os
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
@@ -13,15 +12,10 @@ warnings.filterwarnings("ignore")
 try: requests.packages.urllib3.disable_warnings()
 except: pass
 
-# ══════════════════════════════════════════════════════
-#  CONFIGURATION — lues depuis les variables Render
-#  (ou modifiez directement si vous lancez en local)
-# ══════════════════════════════════════════════════════
-import os
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
+# Lus depuis les secrets GitHub Actions
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_USER  = os.environ.get("GITHUB_USER",  "zakariajahirii-web")
 GITHUB_REPO  = os.environ.get("GITHUB_REPO",  "emploi-eljadida")
-# ══════════════════════════════════════════════════════
 
 BASE   = "https://www.anapec.org/sigec-app-rv"
 LISTE  = BASE + "/chercheurs/resultat_recherche/page:{p}/appcle:toutlesmot/ville:181/language:fr"
@@ -35,7 +29,7 @@ HEADERS = {
 }
 
 def log(msg):
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
 
 def get(url, essais=3):
     s = requests.Session()
@@ -201,8 +195,7 @@ def enrichir(offre):
 
 
 def publier_github(offres):
-    """Publie offres.json sur GitHub via l'API — sans git, sans PC."""
-    if "XXXX" in GITHUB_TOKEN.upper():
+    if not GITHUB_TOKEN:
         log("Token GitHub non configuré — publication ignorée")
         return False
 
@@ -221,7 +214,6 @@ def publier_github(offres):
         "Accept": "application/vnd.github.v3+json",
     }
 
-    # Récupérer le SHA du fichier existant
     sha = None
     try:
         r = requests.get(api_url, headers=headers_gh, timeout=15)
@@ -252,7 +244,7 @@ def publier_github(offres):
         return False
 
 
-def run():
+if __name__ == "__main__":
     log(f"SCRAPER ANAPEC El Jadida — {datetime.now().strftime('%d/%m/%Y %H:%M')}")
     offres, ids_vus = [], set()
 
@@ -273,11 +265,6 @@ def run():
             break
         time.sleep(1.5)
 
-    return offres
-
-
-if __name__ == "__main__":
-    offres = run()
     if offres:
         os.makedirs("data", exist_ok=True)
         data = {
@@ -290,4 +277,5 @@ if __name__ == "__main__":
         log(f"TOTAL: {len(offres)} offres sauvegardees")
         publier_github(offres)
     else:
-        log("ECHEC: 0 offres")
+        log("ECHEC: 0 offres trouvees")
+        raise SystemExit(1)
