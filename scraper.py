@@ -18,7 +18,7 @@ except: pass
 #  (ou modifiez directement si vous lancez en local)
 # ══════════════════════════════════════════════════════
 import os
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "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")
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 GITHUB_USER  = os.environ.get("GITHUB_USER",  "zakariajahirii-web")
 GITHUB_REPO  = os.environ.get("GITHUB_REPO",  "emploi-eljadida")
 # ══════════════════════════════════════════════════════
