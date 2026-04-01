@@ -1,33 +1,45 @@
-name: Scraper ANAPEC
+name: Scraper ANAPEC El Jadida
 
 on:
   schedule:
-    - cron: "0 7 * * *"
-  workflow_dispatch:
+    - cron: '0 7 * * *'   # Chaque jour à 7h00 UTC (8h ou 9h Maroc)
+  workflow_dispatch:        # Permet de lancer manuellement depuis GitHub
+
+permissions:
+  contents: write           # Indispensable pour pouvoir faire git push
 
 jobs:
-  scraper:
+  scrape:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4
         with:
-          python-version: "3.x"
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-      - name: Run scraper
+      - name: Installer les dépendances
+        run: |
+          pip install requests beautifulsoup4 lxml
+
+      - name: Lancer le scraper
         run: python scraper.py
 
-      - name: Commit & Push
+      - name: Vérifier si le JSON a changé
+        id: check
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git diff --quiet data/offres.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit et push du JSON mis à jour
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/offres.json
-          git diff --quiet || git commit -m "update offres"
+          git commit -m "Mise à jour offres ANAPEC — $(date '+%d/%m/%Y %H:%M')"
           git push
