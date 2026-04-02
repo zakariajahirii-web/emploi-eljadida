@@ -1,6 +1,6 @@
 {
-  "date_maj": "01/04/2026 à 21:22",
-  "total": 28,
+  "date_maj": "02/04/2026 à 10:38",
+  "total": 26,
   "offres": [
     {
       "id": "1102938",
@@ -417,38 +417,6 @@
       "experience": "",
       "date_debut": "23/03/2026",
       "description": "- détection des maladies - gestion et suivi de la production - tenue des registres et suivi des données de l'élevage"
-    },
-    {
-      "id": "1097869",
-      "ref": "EL1303261097869",
-      "date": "13/03/2026",
-      "titre": "مجموعة صناعية لتحويل منتوجات البحر بالداخلة تبحث عن عاملات تتراوح \r\n       أعمارهن ما بين 18 و 45 سنة\r\n : الامتيازات  \r\nالسكن\r\n           التنقل من مدينة الجديدة الى الداخلة على حساب الشركة",
-      "nb": "100",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1097869/resultat_recherche",
-      "agence": "EL JADIDA / Maria",
-      "secteur": "",
-      "type_contrat": "Choix Multiple: (50) CDI, (50) CDD,",
-      "formation": "Sans Diplome",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "01/04/2026",
-      "description": "تنظيف، تقشير، تعليب (تعبئة) الأسماك، إزالة الرؤوس، والفرز الدقيق - الإشراف على سلامة المنتجات وضمان مطابقتها للمواصفات والقوانين - يتركز عملهن في أقسام التصنيع والتعليب داخل مصانع تصبير السمك -"
-    },
-    {
-      "id": "1098180",
-      "ref": "EL1303261098180",
-      "date": "13/03/2026",
-      "titre": "Mécanicien d'entretien sur machines industrielles",
-      "nb": "10",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1098180/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien spécialisé",
-      "experience": "(6 mois - 1 an)",
-      "date_debut": "",
-      "description": ""
     }
   ]
 }
