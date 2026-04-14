@@ -1,7 +1,23 @@
 {
-  "date_maj": "13/04/2026 à 08:50",
-  "total": 23,
+  "date_maj": "14/04/2026 à 09:20",
+  "total": 22,
   "offres": [
+    {
+      "id": "1108165",
+      "ref": "EL1304261108165",
+      "date": "13/04/2026",
+      "titre": "Électromécaniciens (H)",
+      "nb": "4",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1108165/resultat_recherche",
+      "agence": "EL JADIDA / JADA",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Technicien spécialisé",
+      "experience": "",
+      "date_debut": "01/05/2026",
+      "description": ""
+    },
     {
       "id": "1107190",
       "ref": "EL1004261107190",
@@ -115,22 +131,6 @@
       "description": "Tâches / Activités ). Mission et travaux de préparation. - Animation de cours de français général -Animation d’ateliers de communication orale et écrite -Animation d’ateliers spécifiques en français (théâtre, slam….) -Animation de formation de français en entreprise -Travail administratif lié au suivi des apprenants -Travail de conception pédagogique"
     },
     {
-      "id": "1103609",
-      "ref": "EL0204261103609",
-      "date": "02/04/2026",
-      "titre": "1 ASSISTANTE EN PHARMACIE",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1103609/resultat_recherche",
-      "agence": "EL JADIDA / BISSAIN",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Baccalauréat",
-      "experience": "",
-      "date_debut": "",
-      "description": ""
-    },
-    {
       "id": "1103301",
       "ref": "EL0204261103301",
       "date": "02/04/2026",
@@ -143,6 +143,22 @@
       "type_contrat": "CDI",
       "formation": "Enseignement secondaire collégial",
       "experience": "(2 ans - 3 ans)",
+      "date_debut": "",
+      "description": ""
+    },
+    {
+      "id": "1103609",
+      "ref": "EL0204261103609",
+      "date": "02/04/2026",
+      "titre": "1 ASSISTANTE EN PHARMACIE",
+      "nb": "1",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1103609/resultat_recherche",
+      "agence": "EL JADIDA / BISSAIN",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Baccalauréat",
+      "experience": "",
       "date_debut": "",
       "description": ""
     },
@@ -211,6 +227,22 @@
       "description": ""
     },
     {
+      "id": "1102435",
+      "ref": "EL3103261102435",
+      "date": "31/03/2026",
+      "titre": "Aides Pharmacien",
+      "nb": "2",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1102435/resultat_recherche",
+      "agence": "EL JADIDA / JADA",
+      "secteur": "",
+      "type_contrat": "CDD",
+      "formation": "Baccalauréat",
+      "experience": "(6 mois - 1 an)",
+      "date_debut": "20/04/2026",
+      "description": ""
+    },
+    {
       "id": "1102509",
       "ref": "EL3103261102509",
       "date": "31/03/2026",
@@ -225,38 +257,6 @@
       "experience": "",
       "date_debut": "",
       "description": "Dessinateur Du Bâtiment"
-    },
-    {
-      "id": "1102417",
-      "ref": "EL3103261102417",
-      "date": "31/03/2026",
-      "titre": "Commercial/Commerciale",
-      "nb": "3",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1102417/resultat_recherche",
-      "agence": "EL JADIDA / BISSAIN",
-      "secteur": "",
-      "type_contrat": "CDD",
-      "formation": "Baccalauréat",
-      "experience": "",
-      "date_debut": "",
-      "description": "-Commerciaux avec expérience dans le domaine de l'imprimerie serait un atout"
-    },
-    {
-      "id": "1102429",
-      "ref": "EL3103261102429",
-      "date": "31/03/2026",
-      "titre": "Technicienne De Laboratoire (F)",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1102429/resultat_recherche",
-      "agence": "EL JADIDA / JADA",
-      "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Diplôme du 1er cycle universitaire",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "20/04/2026",
-      "description": ""
     },
     {
       "id": "1102472",
@@ -275,20 +275,36 @@
       "description": ""
     },
     {
-      "id": "1102435",
-      "ref": "EL3103261102435",
+      "id": "1102429",
+      "ref": "EL3103261102429",
       "date": "31/03/2026",
-      "titre": "Aides Pharmacien",
-      "nb": "2",
+      "titre": "Technicienne De Laboratoire (F)",
+      "nb": "1",
       "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1102435/resultat_recherche",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1102429/resultat_recherche",
       "agence": "EL JADIDA / JADA",
+      "secteur": "",
+      "type_contrat": "CDI",
+      "formation": "Diplôme du 1er cycle universitaire",
+      "experience": "(moins de 6 mois)",
+      "date_debut": "20/04/2026",
+      "description": ""
+    },
+    {
+      "id": "1102417",
+      "ref": "EL3103261102417",
+      "date": "31/03/2026",
+      "titre": "Commercial/Commerciale",
+      "nb": "3",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1102417/resultat_recherche",
+      "agence": "EL JADIDA / BISSAIN",
       "secteur": "",
       "type_contrat": "CDD",
       "formation": "Baccalauréat",
-      "experience": "(6 mois - 1 an)",
-      "date_debut": "20/04/2026",
-      "description": ""
+      "experience": "",
+      "date_debut": "",
+      "description": "-Commerciaux avec expérience dans le domaine de l'imprimerie serait un atout"
     },
     {
       "id": "1101781",
@@ -337,38 +353,6 @@
       "experience": "",
       "date_debut": "",
       "description": "Âge :20-40 ans Bien nager"
-    },
-    {
-      "id": "1100414",
-      "ref": "EL2503261100414",
-      "date": "25/03/2026",
-      "titre": "50 OPERATEURS",
-      "nb": "50",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1100414/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Baccalauréat",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "",
-      "description": ""
-    },
-    {
-      "id": "1100415",
-      "ref": "EL2503261100415",
-      "date": "25/03/2026",
-      "titre": "Assistante Médicale",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1100415/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "",
-      "description": ""
     }
   ]
 }
