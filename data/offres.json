@@ -1,7 +1,23 @@
 {
-  "date_maj": "20/04/2026 à 11:20",
-  "total": 19,
+  "date_maj": "21/04/2026 à 14:31",
+  "total": 18,
   "offres": [
+    {
+      "id": "1110740",
+      "ref": "EL2004261110740",
+      "date": "20/04/2026",
+      "titre": "Agent De Maintenance Convoyeur",
+      "nb": "8",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1110740/resultat_recherche",
+      "agence": "EL JADIDA / Youssef",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Technicien",
+      "experience": "(moins de 6 mois)",
+      "date_debut": "",
+      "description": "Le technicien de maintenance convoyeur a pour missions principales : D'assurer le bon fonctionnement des systèmes de transport automatisé (bandes, rouleaux, chaînes) dans l'industrie et la logistique. D'effectuer des opérations de maintenance préventive (graissage, nettoyage) et curative (réparation, remplacement de composants) pour éviter les arrêts de production ce poste est adressé aux diplômés dans la maintenance industrielle, la chaudronnerie la soudure et autres. le salarié pourra être ame"
+    },
     {
       "id": "1110325",
       "ref": "EL1704261110325",
@@ -67,22 +83,6 @@
       "description": ""
     },
     {
-      "id": "1109090",
-      "ref": "EL1504261109090",
-      "date": "15/04/2026",
-      "titre": "- Bac / Technicien En Maintenance\r\n- Poste : Opérateur De Fabrication En Alimentation Animale\r\n- Lieu De Travail : Haouzia\r\n- Type De Contrat : CI",
-      "nb": "2",
-      "lieu": "HAOUZIA",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1109090/resultat_recherche",
-      "agence": "EL JADIDA / Maria",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Bac + 2",
-      "experience": "(1 an - 2 ans)",
-      "date_debut": "27/04/2026",
-      "description": "- Élaborer des formules alimentaires, analyser les matières premières et le produit fini en laboratoire. - Conseiller les éleveurs sur les choix alimentaires, optimiser les rations, et assurer le suivi technique des animaux. - Suivre la fabrication (granulés, concentrés), contrôler la qualité et assurer la conformité aux normes réglementaires"
-    },
-    {
       "id": "1109173",
       "ref": "EL1504261109173",
       "date": "15/04/2026",
@@ -97,6 +97,22 @@
       "experience": "",
       "date_debut": "",
       "description": ""
+    },
+    {
+      "id": "1109090",
+      "ref": "EL1504261109090",
+      "date": "15/04/2026",
+      "titre": "- Bac / Technicien En Maintenance\r\n- Poste : Opérateur De Fabrication En Alimentation Animale\r\n- Lieu De Travail : Haouzia\r\n- Type De Contrat : CI",
+      "nb": "2",
+      "lieu": "HAOUZIA",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1109090/resultat_recherche",
+      "agence": "EL JADIDA / Maria",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Bac + 2",
+      "experience": "(1 an - 2 ans)",
+      "date_debut": "27/04/2026",
+      "description": "- Élaborer des formules alimentaires, analyser les matières premières et le produit fini en laboratoire. - Conseiller les éleveurs sur les choix alimentaires, optimiser les rations, et assurer le suivi technique des animaux. - Suivre la fabrication (granulés, concentrés), contrôler la qualité et assurer la conformité aux normes réglementaires"
     },
     {
       "id": "1108982",
@@ -131,22 +147,6 @@
       "description": ""
     },
     {
-      "id": "1106506",
-      "ref": "EL0904261106506",
-      "date": "09/04/2026",
-      "titre": "-conducteurs De Machine\r\n- Mécaniciens\r\n- Chaudronniers\r\n- électriciens\r\n-  Ouvriers",
-      "nb": "4",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1106506/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Technicien",
-      "experience": "(1 an - 2 ans)",
-      "date_debut": "",
-      "description": ""
-    },
-    {
       "id": "1106895",
       "ref": "EL0904261106895",
       "date": "09/04/2026",
@@ -161,6 +161,22 @@
       "experience": "(moins de 6 mois)",
       "date_debut": "04/05/2026",
       "description": "- Opérateur Sur Machines Automatiques En Production électrique Ou électronique."
+    },
+    {
+      "id": "1106506",
+      "ref": "EL0904261106506",
+      "date": "09/04/2026",
+      "titre": "-conducteurs De Machine\r\n- Mécaniciens\r\n- Chaudronniers\r\n- électriciens\r\n-  Ouvriers",
+      "nb": "4",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1106506/resultat_recherche",
+      "agence": "EL JADIDA / ZAIM",
+      "secteur": "",
+      "type_contrat": "CDI",
+      "formation": "Technicien",
+      "experience": "(1 an - 2 ans)",
+      "date_debut": "",
+      "description": ""
     },
     {
       "id": "1105967",
@@ -272,38 +288,6 @@
       "formation": "Baccalauréat",
       "experience": "",
       "date_debut": "",
-      "description": ""
-    },
-    {
-      "id": "1102938",
-      "ref": "EL0104261102938",
-      "date": "01/04/2026",
-      "titre": "Ingénieur électrique (F)",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1102938/resultat_recherche",
-      "agence": "EL JADIDA / JADA",
-      "secteur": "",
-      "type_contrat": "CDD",
-      "formation": "Ingénieur",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "01/05/2026",
-      "description": ""
-    },
-    {
-      "id": "1102940",
-      "ref": "EL0104261102940",
-      "date": "01/04/2026",
-      "titre": "Ingénieur En Réseau Informatique (F)",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1102940/resultat_recherche",
-      "agence": "EL JADIDA / JADA",
-      "secteur": "",
-      "type_contrat": "CDD",
-      "formation": "Ingénieur",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "01/05/2026",
       "description": ""
     }
   ]
