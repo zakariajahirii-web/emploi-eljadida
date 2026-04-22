@@ -1,6 +1,6 @@
 {
-  "date_maj": "21/04/2026 à 14:31",
-  "total": 18,
+  "date_maj": "22/04/2026 à 13:17",
+  "total": 14,
   "offres": [
     {
       "id": "1110740",
@@ -35,38 +35,6 @@
       "description": ""
     },
     {
-      "id": "1109794",
-      "ref": "EL1604261109794",
-      "date": "16/04/2026",
-      "titre": "Agent Commercial",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1109794/resultat_recherche",
-      "agence": "EL JADIDA / JADA",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien",
-      "experience": "(6 mois - 1 an)",
-      "date_debut": "01/05/2026",
-      "description": ""
-    },
-    {
-      "id": "1109826",
-      "ref": "EL1604261109826",
-      "date": "16/04/2026",
-      "titre": "Assistante Administrative Et Aide Comptable (F)",
-      "nb": "2",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1109826/resultat_recherche",
-      "agence": "EL JADIDA / JADA",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien",
-      "experience": "(6 mois - 1 an)",
-      "date_debut": "01/05/2026",
-      "description": ""
-    },
-    {
       "id": "1109924",
       "ref": "EL1604261109924",
       "date": "16/04/2026",
@@ -78,6 +46,22 @@
       "secteur": "",
       "type_contrat": "CDD",
       "formation": "Diplôme de qualification professionnelle",
+      "experience": "(6 mois - 1 an)",
+      "date_debut": "01/05/2026",
+      "description": ""
+    },
+    {
+      "id": "1109794",
+      "ref": "EL1604261109794",
+      "date": "16/04/2026",
+      "titre": "Agent Commercial",
+      "nb": "1",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1109794/resultat_recherche",
+      "agence": "EL JADIDA / JADA",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Technicien",
       "experience": "(6 mois - 1 an)",
       "date_debut": "01/05/2026",
       "description": ""
@@ -241,54 +225,6 @@
       "experience": "(6 mois - 1 an)",
       "date_debut": "01/10/2026",
       "description": "Tâches / Activités ). Mission et travaux de préparation. - Animation de cours de français général -Animation d’ateliers de communication orale et écrite -Animation d’ateliers spécifiques en français (théâtre, slam….) -Animation de formation de français en entreprise -Travail administratif lié au suivi des apprenants -Travail de conception pédagogique"
-    },
-    {
-      "id": "1103615",
-      "ref": "EL0204261103615",
-      "date": "02/04/2026",
-      "titre": "Employé de service personnel",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1103615/resultat_recherche",
-      "agence": "EL JADIDA / BISSAIN",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien",
-      "experience": "",
-      "date_debut": "",
-      "description": ""
-    },
-    {
-      "id": "1103301",
-      "ref": "EL0204261103301",
-      "date": "02/04/2026",
-      "titre": "1 Employée De Ménage",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1103301/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Enseignement secondaire collégial",
-      "experience": "(2 ans - 3 ans)",
-      "date_debut": "",
-      "description": ""
-    },
-    {
-      "id": "1103609",
-      "ref": "EL0204261103609",
-      "date": "02/04/2026",
-      "titre": "1 ASSISTANTE EN PHARMACIE",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1103609/resultat_recherche",
-      "agence": "EL JADIDA / BISSAIN",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Baccalauréat",
-      "experience": "",
-      "date_debut": "",
-      "description": ""
     }
   ]
 }
