@@ -1,6 +1,6 @@
 {
-  "date_maj": "22/04/2026 à 13:17",
-  "total": 14,
+  "date_maj": "27/04/2026 à 12:16",
+  "total": 11,
   "offres": [
     {
       "id": "1110740",
@@ -35,22 +35,6 @@
       "description": ""
     },
     {
-      "id": "1109924",
-      "ref": "EL1604261109924",
-      "date": "16/04/2026",
-      "titre": "Chef De Cuisine (F)",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1109924/resultat_recherche",
-      "agence": "EL JADIDA / EL BOUHALI",
-      "secteur": "",
-      "type_contrat": "CDD",
-      "formation": "Diplôme de qualification professionnelle",
-      "experience": "(6 mois - 1 an)",
-      "date_debut": "01/05/2026",
-      "description": ""
-    },
-    {
       "id": "1109794",
       "ref": "EL1604261109794",
       "date": "16/04/2026",
@@ -62,6 +46,22 @@
       "secteur": "",
       "type_contrat": "CI",
       "formation": "Technicien",
+      "experience": "(6 mois - 1 an)",
+      "date_debut": "01/05/2026",
+      "description": ""
+    },
+    {
+      "id": "1109924",
+      "ref": "EL1604261109924",
+      "date": "16/04/2026",
+      "titre": "Chef De Cuisine (F)",
+      "nb": "1",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1109924/resultat_recherche",
+      "agence": "EL JADIDA / EL BOUHALI",
+      "secteur": "",
+      "type_contrat": "CDD",
+      "formation": "Diplôme de qualification professionnelle",
       "experience": "(6 mois - 1 an)",
       "date_debut": "01/05/2026",
       "description": ""
@@ -131,22 +131,6 @@
       "description": ""
     },
     {
-      "id": "1106895",
-      "ref": "EL0904261106895",
-      "date": "09/04/2026",
-      "titre": "- OPÉRATEURS ET OPÉRATRICES (H/F) AVEC DIPLÔME BAC OU BAC + 2 \r\n-  CQP OU SANS DIPLÔME (Niveau 4ème Année Et Plus )",
-      "nb": "60",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1106895/resultat_recherche",
-      "agence": "EL JADIDA / Maria",
-      "secteur": "",
-      "type_contrat": "Choix Multiple: (10) CDI, (50) CI,",
-      "formation": "Baccalauréat",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "04/05/2026",
-      "description": "- Opérateur Sur Machines Automatiques En Production électrique Ou électronique."
-    },
-    {
       "id": "1106506",
       "ref": "EL0904261106506",
       "date": "09/04/2026",
@@ -163,6 +147,22 @@
       "description": ""
     },
     {
+      "id": "1106895",
+      "ref": "EL0904261106895",
+      "date": "09/04/2026",
+      "titre": "- OPÉRATEURS ET OPÉRATRICES (H/F) AVEC DIPLÔME BAC OU BAC + 2 \r\n-  CQP OU SANS DIPLÔME (Niveau 4ème Année Et Plus )",
+      "nb": "60",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1106895/resultat_recherche",
+      "agence": "EL JADIDA / Maria",
+      "secteur": "",
+      "type_contrat": "Choix Multiple: (10) CDI, (50) CI,",
+      "formation": "Baccalauréat",
+      "experience": "(moins de 6 mois)",
+      "date_debut": "04/05/2026",
+      "description": "- Opérateur Sur Machines Automatiques En Production électrique Ou électronique."
+    },
+    {
       "id": "1105967",
       "ref": "EL0804261105967",
       "date": "08/04/2026",
@@ -177,54 +177,6 @@
       "experience": "",
       "date_debut": "",
       "description": ""
-    },
-    {
-      "id": "1104945",
-      "ref": "EL0704261104945",
-      "date": "07/04/2026",
-      "titre": "Agent De Qualité Dans Le Secteur De Conditionnement Et Traitement Des Produits De La Pêche",
-      "nb": "2",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1104945/resultat_recherche",
-      "agence": "EL JADIDA / EL BOUHALI",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien spécialisé",
-      "experience": "",
-      "date_debut": "20/04/2026",
-      "description": "- Maitrise du systeme qualité HACCP - Elaboration et suivide la documentation qualité (Procédure, enregistrements, fiches de controle). - Maitrise de la conformité sanitaire."
-    },
-    {
-      "id": "1104583",
-      "ref": "EL0604261104583",
-      "date": "06/04/2026",
-      "titre": "1 MAGASINIER",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1104583/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien spécialisé",
-      "experience": "(6 mois - 1 an)",
-      "date_debut": "",
-      "description": ""
-    },
-    {
-      "id": "1104073",
-      "ref": "EL0304261104073",
-      "date": "03/04/2026",
-      "titre": "Enseignant(es) De Français (H/F)",
-      "nb": "10",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1104073/resultat_recherche",
-      "agence": "EL JADIDA / JADA",
-      "secteur": "",
-      "type_contrat": "CDD",
-      "formation": "-Travail administratif lié au suivi des apprenants",
-      "experience": "(6 mois - 1 an)",
-      "date_debut": "01/10/2026",
-      "description": "Tâches / Activités ). Mission et travaux de préparation. - Animation de cours de français général -Animation d’ateliers de communication orale et écrite -Animation d’ateliers spécifiques en français (théâtre, slam….) -Animation de formation de français en entreprise -Travail administratif lié au suivi des apprenants -Travail de conception pédagogique"
     }
   ]
 }
