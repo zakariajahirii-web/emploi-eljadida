@@ -1,6 +1,6 @@
 {
-  "date_maj": "27/04/2026 à 12:16",
-  "total": 11,
+  "date_maj": "28/04/2026 à 09:42",
+  "total": 10,
   "offres": [
     {
       "id": "1110740",
@@ -161,22 +161,6 @@
       "experience": "(moins de 6 mois)",
       "date_debut": "04/05/2026",
       "description": "- Opérateur Sur Machines Automatiques En Production électrique Ou électronique."
-    },
-    {
-      "id": "1105967",
-      "ref": "EL0804261105967",
-      "date": "08/04/2026",
-      "titre": "Manutentionnaire (transport logistique)",
-      "nb": "4",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1105967/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Sans Diplome",
-      "experience": "",
-      "date_debut": "",
-      "description": ""
     }
   ]
 }
