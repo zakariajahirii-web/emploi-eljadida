@@ -1,6 +1,6 @@
 {
-  "date_maj": "28/04/2026 à 09:42",
-  "total": 10,
+  "date_maj": "29/04/2026 à 08:56",
+  "total": 9,
   "offres": [
     {
       "id": "1110740",
@@ -115,6 +115,22 @@
       "description": ""
     },
     {
+      "id": "1107436",
+      "ref": "EL1004261107436",
+      "date": "10/04/2026",
+      "titre": "- OPÉRATEURS ET OPÉRATRICES (H/F) AVEC DIPLÔME BAC OU BAC + 2 \r\n-  CQP OU SANS DIPLÔME (Niveau 4ème Année Et Plus )",
+      "nb": "50",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1107436/resultat_recherche",
+      "agence": "EL JADIDA / Maria",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Baccalauréat",
+      "experience": "(moins de 6 mois)",
+      "date_debut": "12/05/2026",
+      "description": "- Opérateur Sur Machines Automatiques En Production électrique Ou électronique."
+    },
+    {
       "id": "1107190",
       "ref": "EL1004261107190",
       "date": "10/04/2026",
@@ -129,38 +145,6 @@
       "experience": "(1 an - 2 ans)",
       "date_debut": "",
       "description": ""
-    },
-    {
-      "id": "1106506",
-      "ref": "EL0904261106506",
-      "date": "09/04/2026",
-      "titre": "-conducteurs De Machine\r\n- Mécaniciens\r\n- Chaudronniers\r\n- électriciens\r\n-  Ouvriers",
-      "nb": "4",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1106506/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Technicien",
-      "experience": "(1 an - 2 ans)",
-      "date_debut": "",
-      "description": ""
-    },
-    {
-      "id": "1106895",
-      "ref": "EL0904261106895",
-      "date": "09/04/2026",
-      "titre": "- OPÉRATEURS ET OPÉRATRICES (H/F) AVEC DIPLÔME BAC OU BAC + 2 \r\n-  CQP OU SANS DIPLÔME (Niveau 4ème Année Et Plus )",
-      "nb": "60",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1106895/resultat_recherche",
-      "agence": "EL JADIDA / Maria",
-      "secteur": "",
-      "type_contrat": "Choix Multiple: (10) CDI, (50) CI,",
-      "formation": "Baccalauréat",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "04/05/2026",
-      "description": "- Opérateur Sur Machines Automatiques En Production électrique Ou électronique."
     }
   ]
 }
