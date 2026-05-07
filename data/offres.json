@@ -1,7 +1,55 @@
 {
-  "date_maj": "06/05/2026 à 11:53",
-  "total": 8,
+  "date_maj": "07/05/2026 à 12:04",
+  "total": 10,
   "offres": [
+    {
+      "id": "1117578",
+      "ref": "EL0705261117578",
+      "date": "07/05/2026",
+      "titre": "Cariste",
+      "nb": "1",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1117578/resultat_recherche",
+      "agence": "EL JADIDA / ZAIM",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Diplôme de qualification professionnelle",
+      "experience": "(1 an - 2 ans)",
+      "date_debut": "",
+      "description": ""
+    },
+    {
+      "id": "1117324",
+      "ref": "EL0605261117324",
+      "date": "06/05/2026",
+      "titre": "-Technicien En Développement Informatique (H)\r\n- Type De Contrat: CDD\r\n- Salaire: A Discuter",
+      "nb": "5",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1117324/resultat_recherche",
+      "agence": "EL JADIDA / Maria",
+      "secteur": "",
+      "type_contrat": "CDD",
+      "formation": "Technicien spécialisé",
+      "experience": "(6 mois - 1 an)",
+      "date_debut": "18/05/2026",
+      "description": "Le / La Développeur(se) informatique conçoit et améliore des systèmes informatiques. Conçoit et développe des applications informatiques selon les besoins des utilisateurs Participer à l'analyse des besoins des clients et propose des solutions techniques adaptées Rédiger des documentations techniques et des guides d'utilisation pour les applications développées Assurer la maintenance et la mise à jour des systèmes pour garantir leur efficacité et leur sécurité Collaborer avec des équipes multidi"
+    },
+    {
+      "id": "1117323",
+      "ref": "EL0605261117323",
+      "date": "06/05/2026",
+      "titre": "-TS En Électromécanique (H) \r\n-Poste: Électromécanicien\r\n-Lieu De Travail: JORF LASFAR\r\n-Salaire: A Discuter\r\n-Type De Contrat: Anapec\r\n-Merci De Postuler",
+      "nb": "10",
+      "lieu": "Jorf Lasfar",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1117323/resultat_recherche",
+      "agence": "EL JADIDA / Maria",
+      "secteur": "",
+      "type_contrat": "Anapec",
+      "formation": "Technicien spécialisé",
+      "experience": "(moins de 6 mois)",
+      "date_debut": "18/05/2026",
+      "description": "L'Électromécanicien d'équipements industriels assure la maintenance et la réparation des équipements électromécaniques dans un environnement de production. Assurer l'installation, la surveillance, la maintenance et le dépannage des équipements industriels Contrôler et optimise le fonctionnement des machines tournantes et des équipements d'exploitation Réaliser des diagnostics précis pour prévenir les pannes et garantir la continuité de la production Participer à l'amélioration des procédés de fa"
+    },
     {
       "id": "1115439",
       "ref": "EL0405261115439",
@@ -113,22 +161,6 @@
       "experience": "(moins de 6 mois)",
       "date_debut": "",
       "description": "Le technicien de maintenance convoyeur a pour missions principales : D'assurer le bon fonctionnement des systèmes de transport automatisé (bandes, rouleaux, chaînes) dans l'industrie et la logistique. D'effectuer des opérations de maintenance préventive (graissage, nettoyage) et curative (réparation, remplacement de composants) pour éviter les arrêts de production ce poste est adressé aux diplômés dans la maintenance industrielle, la chaudronnerie la soudure et autres. le salarié pourra être ame"
-    },
-    {
-      "id": "1110325",
-      "ref": "EL1704261110325",
-      "date": "17/04/2026",
-      "titre": "Secrétaire de direction",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1110325/resultat_recherche",
-      "agence": "EL JADIDA / BISSAIN",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien spécialisé",
-      "experience": "",
-      "date_debut": "",
-      "description": ""
     }
   ]
 }
