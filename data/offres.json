@@ -1,7 +1,39 @@
 {
-  "date_maj": "07/05/2026 à 12:04",
-  "total": 10,
+  "date_maj": "08/05/2026 à 08:57",
+  "total": 11,
   "offres": [
+    {
+      "id": "1118039",
+      "ref": "EL0705261118039",
+      "date": "07/05/2026",
+      "titre": "- OPÉRATEURS ET OPÉRATRICES (H/F) AVEC DIPLÔME BAC OU BAC + 2 \r\n-  CQP OU SANS DIPLÔME (Niveau 4ème Année Et Plus )",
+      "nb": "50",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1118039/resultat_recherche",
+      "agence": "EL JADIDA / Maria",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Baccalauréat",
+      "experience": "(moins de 6 mois)",
+      "date_debut": "01/06/2026",
+      "description": "- Opérateur Sur Machines Automatiques En Production électrique Ou électronique."
+    },
+    {
+      "id": "1117655",
+      "ref": "EL0705261117655",
+      "date": "07/05/2026",
+      "titre": "SERVEUR(SE) - HOTESSE D'ACCUEIL",
+      "nb": "10",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1117655/resultat_recherche",
+      "agence": "EL JADIDA / BISSAIN",
+      "secteur": "",
+      "type_contrat": "CDD",
+      "formation": "Technicien",
+      "experience": "",
+      "date_debut": "",
+      "description": ""
+    },
     {
       "id": "1117578",
       "ref": "EL0705261117578",
@@ -19,22 +51,6 @@
       "description": ""
     },
     {
-      "id": "1117324",
-      "ref": "EL0605261117324",
-      "date": "06/05/2026",
-      "titre": "-Technicien En Développement Informatique (H)\r\n- Type De Contrat: CDD\r\n- Salaire: A Discuter",
-      "nb": "5",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1117324/resultat_recherche",
-      "agence": "EL JADIDA / Maria",
-      "secteur": "",
-      "type_contrat": "CDD",
-      "formation": "Technicien spécialisé",
-      "experience": "(6 mois - 1 an)",
-      "date_debut": "18/05/2026",
-      "description": "Le / La Développeur(se) informatique conçoit et améliore des systèmes informatiques. Conçoit et développe des applications informatiques selon les besoins des utilisateurs Participer à l'analyse des besoins des clients et propose des solutions techniques adaptées Rédiger des documentations techniques et des guides d'utilisation pour les applications développées Assurer la maintenance et la mise à jour des systèmes pour garantir leur efficacité et leur sécurité Collaborer avec des équipes multidi"
-    },
-    {
       "id": "1117323",
       "ref": "EL0605261117323",
       "date": "06/05/2026",
@@ -49,6 +65,22 @@
       "experience": "(moins de 6 mois)",
       "date_debut": "18/05/2026",
       "description": "L'Électromécanicien d'équipements industriels assure la maintenance et la réparation des équipements électromécaniques dans un environnement de production. Assurer l'installation, la surveillance, la maintenance et le dépannage des équipements industriels Contrôler et optimise le fonctionnement des machines tournantes et des équipements d'exploitation Réaliser des diagnostics précis pour prévenir les pannes et garantir la continuité de la production Participer à l'amélioration des procédés de fa"
+    },
+    {
+      "id": "1117324",
+      "ref": "EL0605261117324",
+      "date": "06/05/2026",
+      "titre": "-Technicien En Développement Informatique (H)\r\n- Type De Contrat: CDD\r\n- Salaire: A Discuter",
+      "nb": "5",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1117324/resultat_recherche",
+      "agence": "EL JADIDA / Maria",
+      "secteur": "",
+      "type_contrat": "CDD",
+      "formation": "Technicien spécialisé",
+      "experience": "(6 mois - 1 an)",
+      "date_debut": "18/05/2026",
+      "description": "Le / La Développeur(se) informatique conçoit et améliore des systèmes informatiques. Conçoit et développe des applications informatiques selon les besoins des utilisateurs Participer à l'analyse des besoins des clients et propose des solutions techniques adaptées Rédiger des documentations techniques et des guides d'utilisation pour les applications développées Assurer la maintenance et la mise à jour des systèmes pour garantir leur efficacité et leur sécurité Collaborer avec des équipes multidi"
     },
     {
       "id": "1115439",
@@ -83,22 +115,6 @@
       "description": ""
     },
     {
-      "id": "1115781",
-      "ref": "EL0405261115781",
-      "date": "04/05/2026",
-      "titre": "- OPÉRATEURS ET OPÉRATRICES (H/F) AVEC DIPLÔME BAC OU BAC + 2 \r\n-  CQP OU SANS DIPLÔME (Niveau 4ème Année Et Plus )",
-      "nb": "60",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1115781/resultat_recherche",
-      "agence": "EL JADIDA / Maria",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Baccalauréat",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "01/06/2026",
-      "description": "- Opérateur Sur Machines Automatiques En Production électrique Ou électronique."
-    },
-    {
       "id": "1114749",
       "ref": "EL3004261114749",
       "date": "30/04/2026",
@@ -115,22 +131,6 @@
       "description": "horaire de 8h à 16h30 Expérience professionnelle : (moins de 6 mois)"
     },
     {
-      "id": "1114368",
-      "ref": "EL2904261114368",
-      "date": "29/04/2026",
-      "titre": "4 TECHNICIENS ELECTROMECANICIENS",
-      "nb": "4",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1114368/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien spécialisé",
-      "experience": "",
-      "date_debut": "",
-      "description": ""
-    },
-    {
       "id": "1114370",
       "ref": "EL2904261114370",
       "date": "29/04/2026",
@@ -143,6 +143,22 @@
       "type_contrat": "CI",
       "formation": "Technicien",
       "experience": "(6 mois - 1 an)",
+      "date_debut": "",
+      "description": ""
+    },
+    {
+      "id": "1114368",
+      "ref": "EL2904261114368",
+      "date": "29/04/2026",
+      "titre": "4 TECHNICIENS ELECTROMECANICIENS",
+      "nb": "4",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1114368/resultat_recherche",
+      "agence": "EL JADIDA / ZAIM",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Technicien spécialisé",
+      "experience": "",
       "date_debut": "",
       "description": ""
     },
