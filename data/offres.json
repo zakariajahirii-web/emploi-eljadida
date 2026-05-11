@@ -1,7 +1,23 @@
 {
-  "date_maj": "08/05/2026 à 08:57",
-  "total": 11,
+  "date_maj": "11/05/2026 à 09:34",
+  "total": 9,
   "offres": [
+    {
+      "id": "1118855",
+      "ref": "EL0905261118855",
+      "date": "09/05/2026",
+      "titre": "- TS En Gestion Des Entreprises / Secrétariat\r\n- Poste : Assistante Dentaire\r\n- Lieu De Travail: El Jadida Hay El Matar\r\n- Contrat Anapec",
+      "nb": "1",
+      "lieu": "El Jadida HAY EL MATAR",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1118855/resultat_recherche",
+      "agence": "EL JADIDA / Maria",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Technicien spécialisé",
+      "experience": "(moins de 6 mois)",
+      "date_debut": "18/05/2026",
+      "description": "Préparer les matériaux et les instruments nécessaires aux interventions Assister le dentiste dans les procédures de soins dentaires Gèrer l'accueil et le confort des patients avant, pendant et après les soins Assurer la stérilisation et le rangement du matériel dentaire Peut gérer les rendez-vous et les dossiers des patients Contribue à la gestion administrative du cabinet dentaire"
+    },
     {
       "id": "1118039",
       "ref": "EL0705261118039",
@@ -51,22 +67,6 @@
       "description": ""
     },
     {
-      "id": "1117323",
-      "ref": "EL0605261117323",
-      "date": "06/05/2026",
-      "titre": "-TS En Électromécanique (H) \r\n-Poste: Électromécanicien\r\n-Lieu De Travail: JORF LASFAR\r\n-Salaire: A Discuter\r\n-Type De Contrat: Anapec\r\n-Merci De Postuler",
-      "nb": "10",
-      "lieu": "Jorf Lasfar",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1117323/resultat_recherche",
-      "agence": "EL JADIDA / Maria",
-      "secteur": "",
-      "type_contrat": "Anapec",
-      "formation": "Technicien spécialisé",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "18/05/2026",
-      "description": "L'Électromécanicien d'équipements industriels assure la maintenance et la réparation des équipements électromécaniques dans un environnement de production. Assurer l'installation, la surveillance, la maintenance et le dépannage des équipements industriels Contrôler et optimise le fonctionnement des machines tournantes et des équipements d'exploitation Réaliser des diagnostics précis pour prévenir les pannes et garantir la continuité de la production Participer à l'amélioration des procédés de fa"
-    },
-    {
       "id": "1117324",
       "ref": "EL0605261117324",
       "date": "06/05/2026",
@@ -81,22 +81,6 @@
       "experience": "(6 mois - 1 an)",
       "date_debut": "18/05/2026",
       "description": "Le / La Développeur(se) informatique conçoit et améliore des systèmes informatiques. Conçoit et développe des applications informatiques selon les besoins des utilisateurs Participer à l'analyse des besoins des clients et propose des solutions techniques adaptées Rédiger des documentations techniques et des guides d'utilisation pour les applications développées Assurer la maintenance et la mise à jour des systèmes pour garantir leur efficacité et leur sécurité Collaborer avec des équipes multidi"
-    },
-    {
-      "id": "1115439",
-      "ref": "EL0405261115439",
-      "date": "04/05/2026",
-      "titre": "Réceptionniste (F)",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1115439/resultat_recherche",
-      "agence": "EL JADIDA / JADA",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Passer les consignes à l’équipe suivante,",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "01/06/2026",
-      "description": ""
     },
     {
       "id": "1115455",
@@ -161,22 +145,6 @@
       "experience": "",
       "date_debut": "",
       "description": ""
-    },
-    {
-      "id": "1110740",
-      "ref": "EL2004261110740",
-      "date": "20/04/2026",
-      "titre": "Agent De Maintenance Convoyeur",
-      "nb": "8",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1110740/resultat_recherche",
-      "agence": "EL JADIDA / Youssef",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "",
-      "description": "Le technicien de maintenance convoyeur a pour missions principales : D'assurer le bon fonctionnement des systèmes de transport automatisé (bandes, rouleaux, chaînes) dans l'industrie et la logistique. D'effectuer des opérations de maintenance préventive (graissage, nettoyage) et curative (réparation, remplacement de composants) pour éviter les arrêts de production ce poste est adressé aux diplômés dans la maintenance industrielle, la chaudronnerie la soudure et autres. le salarié pourra être ame"
     }
   ]
 }
