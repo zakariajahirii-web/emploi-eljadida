@@ -1,6 +1,6 @@
 {
-  "date_maj": "19/05/2026 à 15:08",
-  "total": 16,
+  "date_maj": "20/05/2026 à 09:05",
+  "total": 14,
   "offres": [
     {
       "id": "1123117",
@@ -51,6 +51,22 @@
       "description": "COMMERCIAL"
     },
     {
+      "id": "1122002",
+      "ref": "",
+      "date": "14/05/2026",
+      "titre": "Soil Scientist Manger",
+      "nb": "1",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1122002/resultat_recherche",
+      "agence": "ANAPEC El Jadida",
+      "secteur": "",
+      "type_contrat": "CDI",
+      "formation": "Doctorat (PhD) en Sciences du sol.",
+      "experience": "",
+      "date_debut": "",
+      "description": "· Formations Doctorat (PhD) en Sciences du sol. · Expériences - Expertise en analyses des sols, fertilisation et diagnostic agronomique. - Expérience en modélisation des cultures, SIG et télédétection appliquée à l’agriculture. - Gestion et pilotage de projets de recherche agronomique et d’essais terrain. - Collaboration avec des institutions académiques et organisations agricoles internationales. - Expérience en agriculture climato-intelligente et adaptation au changement climatique. - Collabor"
+    },
+    {
       "id": "1121996",
       "ref": "",
       "date": "14/05/2026",
@@ -99,34 +115,18 @@
       "description": "· Formations Master en Sciences et Technologies des Engrais · Expériences - Développement de formulations d’engrais sécurisées, modélisation statistique et machine learning pour optimiser l’efficacité des nutriments et réduire la toxicité. - Cartographie nationale du pH des sols, caractérisation des amendements calcaires (XRD, MIR, VisNIR), prédiction de la valeur agronomique et recommandations d’application durable. - Pilotage du projet HarvestZinc (biofortification), coordination multi-acteurs"
     },
     {
-      "id": "1122002",
-      "ref": "",
-      "date": "14/05/2026",
-      "titre": "Soil Scientist Manger",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1122002/resultat_recherche",
-      "agence": "ANAPEC El Jadida",
-      "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Doctorat (PhD) en Sciences du sol.",
-      "experience": "",
-      "date_debut": "",
-      "description": "· Formations Doctorat (PhD) en Sciences du sol. · Expériences - Expertise en analyses des sols, fertilisation et diagnostic agronomique. - Expérience en modélisation des cultures, SIG et télédétection appliquée à l’agriculture. - Gestion et pilotage de projets de recherche agronomique et d’essais terrain. - Collaboration avec des institutions académiques et organisations agricoles internationales. - Expérience en agriculture climato-intelligente et adaptation au changement climatique. - Collabor"
-    },
-    {
-      "id": "1119467",
-      "ref": "EL1105261119467",
+      "id": "1119425",
+      "ref": "EL1105261119425",
       "date": "11/05/2026",
-      "titre": "Téléconseiller(es) Langue Espagnol (H/F)",
-      "nb": "5",
+      "titre": "Réceptionnistes (H/F)",
+      "nb": "2",
       "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1119467/resultat_recherche",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1119425/resultat_recherche",
       "agence": "EL JADIDA / JADA",
       "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Baccalauréat",
-      "experience": "",
+      "type_contrat": "Choix Multiple: (1) CDD, (1) CI,",
+      "formation": "Passer les consignes à l’équipe suivante,",
+      "experience": "Secteur d’activité :",
       "date_debut": "01/06/2026",
       "description": ""
     },
@@ -147,18 +147,18 @@
       "description": ""
     },
     {
-      "id": "1119425",
-      "ref": "EL1105261119425",
+      "id": "1119467",
+      "ref": "EL1105261119467",
       "date": "11/05/2026",
-      "titre": "Réceptionnistes (H/F)",
-      "nb": "2",
+      "titre": "Téléconseiller(es) Langue Espagnol (H/F)",
+      "nb": "5",
       "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1119425/resultat_recherche",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1119467/resultat_recherche",
       "agence": "EL JADIDA / JADA",
       "secteur": "",
-      "type_contrat": "Choix Multiple: (1) CDD, (1) CI,",
-      "formation": "Passer les consignes à l’équipe suivante,",
-      "experience": "Secteur d’activité :",
+      "type_contrat": "CDI",
+      "formation": "Baccalauréat",
+      "experience": "",
       "date_debut": "01/06/2026",
       "description": ""
     },
@@ -211,22 +211,6 @@
       "description": ""
     },
     {
-      "id": "1117324",
-      "ref": "EL0605261117324",
-      "date": "06/05/2026",
-      "titre": "-Technicien En Développement Informatique (H)\r\n- Type De Contrat: CDD\r\n- Salaire: A Discuter",
-      "nb": "5",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1117324/resultat_recherche",
-      "agence": "EL JADIDA / Maria",
-      "secteur": "",
-      "type_contrat": "CDD",
-      "formation": "Technicien spécialisé",
-      "experience": "(6 mois - 1 an)",
-      "date_debut": "18/05/2026",
-      "description": "Le / La Développeur(se) informatique conçoit et améliore des systèmes informatiques. Conçoit et développe des applications informatiques selon les besoins des utilisateurs Participer à l'analyse des besoins des clients et propose des solutions techniques adaptées Rédiger des documentations techniques et des guides d'utilisation pour les applications développées Assurer la maintenance et la mise à jour des systèmes pour garantir leur efficacité et leur sécurité Collaborer avec des équipes multidi"
-    },
-    {
       "id": "1115455",
       "ref": "EL0405261115455",
       "date": "04/05/2026",
@@ -241,22 +225,6 @@
       "experience": "(moins de 6 mois)",
       "date_debut": "14/05/2026",
       "description": ""
-    },
-    {
-      "id": "1114749",
-      "ref": "EL3004261114749",
-      "date": "30/04/2026",
-      "titre": "Infirmier Polyvalent + Secrétaire Bureautique à Bir Jdid",
-      "nb": "2",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1114749/resultat_recherche",
-      "agence": "EL JADIDA / Youssef",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "04/05/2026",
-      "description": "horaire de 8h à 16h30 Expérience professionnelle : (moins de 6 mois)"
     }
   ]
 }
