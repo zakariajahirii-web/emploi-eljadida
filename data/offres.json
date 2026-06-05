@@ -1,7 +1,23 @@
 {
-  "date_maj": "03/06/2026 à 09:51",
-  "total": 12,
+  "date_maj": "05/06/2026 à 11:10",
+  "total": 11,
   "offres": [
+    {
+      "id": "1126814",
+      "ref": "EL0306261126814",
+      "date": "03/06/2026",
+      "titre": "ASSISTANTE POLYVALENTE",
+      "nb": "1",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1126814/resultat_recherche",
+      "agence": "EL JADIDA / EL BOUHALI",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Bac + 2",
+      "experience": "",
+      "date_debut": "15/06/2026",
+      "description": "-RECEPTION ET EMISSION DES APPELS - GERER LES RECLAMATIONS DES CLIENTS - PREPARATION ET GESTION DES COMMANDES"
+    },
     {
       "id": "1126479",
       "ref": "EL0206261126479",
@@ -19,20 +35,20 @@
       "description": ""
     },
     {
-      "id": "1125943",
-      "ref": "EL0106261125943",
+      "id": "1126001",
+      "ref": "EL0106261126001",
       "date": "01/06/2026",
-      "titre": "ANALYSTE LABORATOIRE",
-      "nb": "10",
+      "titre": "Dessinateur (rice) De Bâtiment (H/F)",
+      "nb": "1",
       "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1125943/resultat_recherche",
-      "agence": "EL JADIDA / BISSAIN",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1126001/resultat_recherche",
+      "agence": "EL JADIDA / JADA",
       "secteur": "",
-      "type_contrat": "Choix Multiple: (5) CDD, (5) CI,",
-      "formation": "Diplôme du 2ème cycle universitaire",
-      "experience": "",
-      "date_debut": "",
-      "description": "-LICENCE / MASTER EN CHIMIE INDUSTRIELLE -BON NIVEAU EN ANGLAIS -EXPERIENCE DANS LE LABORATOIRE CHIMIE SERAIT UN PLUS"
+      "type_contrat": "CI",
+      "formation": "Technicien",
+      "experience": "(2 ans - 3 ans)",
+      "date_debut": "01/07/2026",
+      "description": ""
     },
     {
       "id": "1125843",
@@ -51,20 +67,20 @@
       "description": ""
     },
     {
-      "id": "1126001",
-      "ref": "EL0106261126001",
+      "id": "1125943",
+      "ref": "EL0106261125943",
       "date": "01/06/2026",
-      "titre": "Dessinateur (rice) De Bâtiment (H/F)",
-      "nb": "1",
+      "titre": "ANALYSTE LABORATOIRE",
+      "nb": "10",
       "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1126001/resultat_recherche",
-      "agence": "EL JADIDA / JADA",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1125943/resultat_recherche",
+      "agence": "EL JADIDA / BISSAIN",
       "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien",
-      "experience": "(2 ans - 3 ans)",
-      "date_debut": "01/07/2026",
-      "description": ""
+      "type_contrat": "Choix Multiple: (5) CDD, (5) CI,",
+      "formation": "Diplôme du 2ème cycle universitaire",
+      "experience": "",
+      "date_debut": "",
+      "description": "-LICENCE / MASTER EN CHIMIE INDUSTRIELLE -BON NIVEAU EN ANGLAIS -EXPERIENCE DANS LE LABORATOIRE CHIMIE SERAIT UN PLUS"
     },
     {
       "id": "1125888",
@@ -115,22 +131,6 @@
       "description": "Maintenance et remplacement de compteurs de mesure, tels que les compteurs d'eau, d'électricité . Installer des compteurs , d'eau et d'électricité chez les particuliers. Assurer la maintenance et le bon fonctionnement des compteurs installés Respecter les normes de sécurité et les réglementations en vigueur lors des installations Renseigner les clients sur le fonctionnement des compteurs et les bonnes pratiques d'utilisation Peut être amené à intervenir en urgence pour des réparations ou des rem"
     },
     {
-      "id": "1124078",
-      "ref": "EL2005261124078",
-      "date": "20/05/2026",
-      "titre": "Techniciens Spécialisés En Electromécanique Des Systèmes Automatisés, Avec Ou Sans Expérience",
-      "nb": "5",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1124078/resultat_recherche",
-      "agence": "EL JADIDA / JADA",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien spécialisé",
-      "experience": "",
-      "date_debut": "01/06/2026",
-      "description": ""
-    },
-    {
       "id": "1124038",
       "ref": "EL2005261124038",
       "date": "20/05/2026",
@@ -143,6 +143,22 @@
       "type_contrat": "CDD",
       "formation": "Technicien spécialisé",
       "experience": "(1 an - 2 ans)",
+      "date_debut": "01/06/2026",
+      "description": ""
+    },
+    {
+      "id": "1124078",
+      "ref": "EL2005261124078",
+      "date": "20/05/2026",
+      "titre": "Techniciens Spécialisés En Electromécanique Des Systèmes Automatisés, Avec Ou Sans Expérience",
+      "nb": "5",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1124078/resultat_recherche",
+      "agence": "EL JADIDA / JADA",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Technicien spécialisé",
+      "experience": "",
       "date_debut": "01/06/2026",
       "description": ""
     },
@@ -161,38 +177,6 @@
       "experience": "",
       "date_debut": "",
       "description": ""
-    },
-    {
-      "id": "1122738",
-      "ref": "EL1605261122738",
-      "date": "16/05/2026",
-      "titre": "AGENT DE SECURITE",
-      "nb": "15",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1122738/resultat_recherche",
-      "agence": "EL JADIDA / EL BOUHALI",
-      "secteur": "",
-      "type_contrat": "CDD",
-      "formation": "Baccalauréat",
-      "experience": "",
-      "date_debut": "",
-      "description": "AGENT DE SECURITE"
-    },
-    {
-      "id": "1122737",
-      "ref": "EL1605261122737",
-      "date": "16/05/2026",
-      "titre": "COMMERCIAL",
-      "nb": "10",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1122737/resultat_recherche",
-      "agence": "EL JADIDA / EL BOUHALI",
-      "secteur": "",
-      "type_contrat": "CDD",
-      "formation": "Bac + 2",
-      "experience": "",
-      "date_debut": "",
-      "description": "COMMERCIAL"
     }
   ]
 }
