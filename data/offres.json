@@ -1,7 +1,23 @@
 {
-  "date_maj": "05/06/2026 à 11:10",
+  "date_maj": "08/06/2026 à 10:02",
   "total": 11,
   "offres": [
+    {
+      "id": "1128462",
+      "ref": "EL0806261128462",
+      "date": "08/06/2026",
+      "titre": "- TS En Électromécanique \r\n- Type De Contrat : CDI\r\n- Poste : Opérateur De Production\r\n- Salaire: A Discuter",
+      "nb": "10",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1128462/resultat_recherche",
+      "agence": "EL JADIDA / Maria",
+      "secteur": "",
+      "type_contrat": "CDI",
+      "formation": "Technicien spécialisé",
+      "experience": "(2 ans - 3 ans)",
+      "date_debut": "22/06/2026",
+      "description": "- Planifier les travaux de la maintenance sur logiciel GMAO - Préparer les travaux de la maintenance (moyens humains et matériel, méthodes d'exécution) - Contrôler la qualité d\"exécution des opérations de la maintenance - Etablir le plan d'action des anomalies d'écoulant des opérations d'inscription et de contrôle - Inspecter et contrôler les équipements et installations et s'assurer de leur bon fonctionnement - Proposer les modifications pour améliorer la sécurité, la disponibilité et la fiabil"
+    },
     {
       "id": "1126814",
       "ref": "EL0306261126814",
@@ -51,6 +67,22 @@
       "description": ""
     },
     {
+      "id": "1125888",
+      "ref": "",
+      "date": "01/06/2026",
+      "titre": "OPERATRICE DE PRODUCTION",
+      "nb": "80",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1125888/resultat_recherche",
+      "agence": "SIDI BENNOUR / ABIA",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Baccalauréat",
+      "experience": "",
+      "date_debut": "",
+      "description": "Candidates ayant un niveau BAC ou un Diplôme de Qualification professionnelle et plus."
+    },
+    {
       "id": "1125843",
       "ref": "EL0106261125843",
       "date": "01/06/2026",
@@ -81,22 +113,6 @@
       "experience": "",
       "date_debut": "",
       "description": "-LICENCE / MASTER EN CHIMIE INDUSTRIELLE -BON NIVEAU EN ANGLAIS -EXPERIENCE DANS LE LABORATOIRE CHIMIE SERAIT UN PLUS"
-    },
-    {
-      "id": "1125888",
-      "ref": "",
-      "date": "01/06/2026",
-      "titre": "OPERATRICE DE PRODUCTION",
-      "nb": "80",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1125888/resultat_recherche",
-      "agence": "SIDI BENNOUR / ABIA",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Baccalauréat",
-      "experience": "",
-      "date_debut": "",
-      "description": "Candidates ayant un niveau BAC ou un Diplôme de Qualification professionnelle et plus."
     },
     {
       "id": "1125600",
@@ -160,22 +176,6 @@
       "formation": "Technicien spécialisé",
       "experience": "",
       "date_debut": "01/06/2026",
-      "description": ""
-    },
-    {
-      "id": "1123117",
-      "ref": "EL1805261123117",
-      "date": "18/05/2026",
-      "titre": "100 Opératrices à BONTAZ",
-      "nb": "100",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1123117/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Baccalauréat",
-      "experience": "",
-      "date_debut": "",
       "description": ""
     }
   ]
