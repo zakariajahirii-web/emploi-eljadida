@@ -1,23 +1,7 @@
 {
-  "date_maj": "22/06/2026 à 08:55",
-  "total": 14,
+  "date_maj": "23/06/2026 à 09:03",
+  "total": 12,
   "offres": [
-    {
-      "id": "1134341",
-      "ref": "EL2106261134341",
-      "date": "21/06/2026",
-      "titre": "- Bac+3 / Bac+5 En Hôtellerie, Tourisme, Gestion Hôtelière Ou Management  \r\n- Poste: Responsable F&B (Food & Beverage)\r\n- Lieu De Travail: El Jadida (Hötel De Luxe)\r\n- Salaire: A Discuter",
-      "nb": "1",
-      "lieu": "El Jadida (HÖTEL DE LUXE)",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1134341/resultat_recherche",
-      "agence": "EL JADIDA / Maria",
-      "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Bac + 3, bachelor",
-      "experience": "(10 ans - 15 ans)",
-      "date_debut": "01/07/2026",
-      "description": "Superviser les opérations quotidiennes des restaurants, des bars et des services de traiteur. Élaborer et mettre en œuvre des stratégies pour atteindre les objectifs de vente et de rentabilité. Recruter, former et encadrer le personnel de restauration. Assurer la qualité des produits et des services en veillant au respect des normes d’hygiène et de sécurité alimentaire. Gérer les budgets, contrôler les coûts et optimiser les revenus. Collaborer avec d’autres départements de l’établissement pour "
-    },
     {
       "id": "1134346",
       "ref": "EL2106261134346",
@@ -49,6 +33,22 @@
       "experience": "(5 ans - 10 ans)",
       "date_debut": "01/07/2026",
       "description": "Élaborer, développer et implanter des plans stratégiques. Gérer des budgets et des comptes financiers. Résoudre rapidement et avec courtoisie les griefs des clients pour leur garantir une expérience globalement mémorable. Organiser et assister à des réunions de département. Assurer la communication avec le personnel de réception et lui assigner les différentes tâches. Former et superviser le personnel de réception sur les standards et procédures du service. Maximiser le taux d’occupation des cha"
+    },
+    {
+      "id": "1134341",
+      "ref": "EL2106261134341",
+      "date": "21/06/2026",
+      "titre": "- Bac+3 / Bac+5 En Hôtellerie, Tourisme, Gestion Hôtelière Ou Management  \r\n- Poste: Responsable F&B (Food & Beverage)\r\n- Lieu De Travail: El Jadida (Hötel De Luxe)\r\n- Salaire: A Discuter",
+      "nb": "1",
+      "lieu": "El Jadida (HÖTEL DE LUXE)",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1134341/resultat_recherche",
+      "agence": "EL JADIDA / Maria",
+      "secteur": "",
+      "type_contrat": "CDI",
+      "formation": "Bac + 3, bachelor",
+      "experience": "(10 ans - 15 ans)",
+      "date_debut": "01/07/2026",
+      "description": "Superviser les opérations quotidiennes des restaurants, des bars et des services de traiteur. Élaborer et mettre en œuvre des stratégies pour atteindre les objectifs de vente et de rentabilité. Recruter, former et encadrer le personnel de restauration. Assurer la qualité des produits et des services en veillant au respect des normes d’hygiène et de sécurité alimentaire. Gérer les budgets, contrôler les coûts et optimiser les revenus. Collaborer avec d’autres départements de l’établissement pour "
     },
     {
       "id": "1133584",
@@ -99,22 +99,6 @@
       "description": "CHAUFFEUR LIVREUR AVEC DIPLOME EN MECANIQUE OU ELECTRICITE"
     },
     {
-      "id": "1132967",
-      "ref": "EL1606261132967",
-      "date": "16/06/2026",
-      "titre": "Electricien de maintenance",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1132967/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Technicien",
-      "experience": "(1 an - 2 ans)",
-      "date_debut": "",
-      "description": ""
-    },
-    {
       "id": "1132754",
       "ref": "EL1606261132754",
       "date": "16/06/2026",
@@ -127,6 +111,22 @@
       "type_contrat": "CI",
       "formation": "Baccalauréat",
       "experience": "(moins de 6 mois)",
+      "date_debut": "",
+      "description": ""
+    },
+    {
+      "id": "1132967",
+      "ref": "EL1606261132967",
+      "date": "16/06/2026",
+      "titre": "Electricien de maintenance",
+      "nb": "1",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1132967/resultat_recherche",
+      "agence": "EL JADIDA / ZAIM",
+      "secteur": "",
+      "type_contrat": "CDI",
+      "formation": "Technicien",
+      "experience": "(1 an - 2 ans)",
       "date_debut": "",
       "description": ""
     },
@@ -147,22 +147,6 @@
       "description": ""
     },
     {
-      "id": "1129085",
-      "ref": "EL0806261129085",
-      "date": "08/06/2026",
-      "titre": "CONTROLEUR DE GESTION",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1129085/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Bac + 5, master privé, MBA",
-      "experience": "(1 an - 2 ans)",
-      "date_debut": "",
-      "description": ""
-    },
-    {
       "id": "1128661",
       "ref": "EL0806261128661",
       "date": "08/06/2026",
@@ -177,22 +161,6 @@
       "experience": "",
       "date_debut": "15/06/2026",
       "description": ""
-    },
-    {
-      "id": "1128462",
-      "ref": "EL0806261128462",
-      "date": "08/06/2026",
-      "titre": "- TS En Électromécanique \r\n- Type De Contrat : CDI\r\n- Poste : Opérateur De Production\r\n- Salaire: A Discuter",
-      "nb": "10",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1128462/resultat_recherche",
-      "agence": "EL JADIDA / Maria",
-      "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Technicien spécialisé",
-      "experience": "(2 ans - 3 ans)",
-      "date_debut": "22/06/2026",
-      "description": "- Planifier les travaux de la maintenance sur logiciel GMAO - Préparer les travaux de la maintenance (moyens humains et matériel, méthodes d'exécution) - Contrôler la qualité d\"exécution des opérations de la maintenance - Etablir le plan d'action des anomalies d'écoulant des opérations d'inscription et de contrôle - Inspecter et contrôler les équipements et installations et s'assurer de leur bon fonctionnement - Proposer les modifications pour améliorer la sécurité, la disponibilité et la fiabil"
     },
     {
       "id": "1129081",
@@ -211,20 +179,20 @@
       "description": ""
     },
     {
-      "id": "1126814",
-      "ref": "EL0306261126814",
-      "date": "03/06/2026",
-      "titre": "ASSISTANTE POLYVALENTE",
+      "id": "1129085",
+      "ref": "EL0806261129085",
+      "date": "08/06/2026",
+      "titre": "CONTROLEUR DE GESTION",
       "nb": "1",
       "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1126814/resultat_recherche",
-      "agence": "EL JADIDA / EL BOUHALI",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1129085/resultat_recherche",
+      "agence": "EL JADIDA / ZAIM",
       "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Bac + 2",
-      "experience": "",
-      "date_debut": "15/06/2026",
-      "description": "-RECEPTION ET EMISSION DES APPELS - GERER LES RECLAMATIONS DES CLIENTS - PREPARATION ET GESTION DES COMMANDES"
+      "type_contrat": "CDI",
+      "formation": "Bac + 5, master privé, MBA",
+      "experience": "(1 an - 2 ans)",
+      "date_debut": "",
+      "description": ""
     }
   ]
 }
