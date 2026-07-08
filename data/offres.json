@@ -1,6 +1,6 @@
 {
-  "date_maj": "07/07/2026 à 09:32",
-  "total": 22,
+  "date_maj": "08/07/2026 à 11:03",
+  "total": 19,
   "offres": [
     {
       "id": "1139615",
@@ -305,54 +305,6 @@
       "experience": "(2 ans - 3 ans)",
       "date_debut": "01/07/2026",
       "description": "- Assurer le bon fonctionnement des équipements techniques de l'Hötel. - Contröler quotidiennement les installations techniques - Intervenir ou coordonner les interventions en cas de panne. - Veiller à la disponibilité permanente des équipements essentiels - Suivre l'entretien des installations électriques, de plomberie, de climatisation et de ventilation."
-    },
-    {
-      "id": "1133514",
-      "ref": "EL1806261133514",
-      "date": "18/06/2026",
-      "titre": "CHAUFFEUR LIVREUR AVEC DIPLOME EN MECANIQUE OU ELECTRICITE",
-      "nb": "3",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1133514/resultat_recherche",
-      "agence": "EL JADIDA / EL BOUHALI",
-      "secteur": "",
-      "type_contrat": "CDI",
-      "formation": "Technicien",
-      "experience": "(6 mois - 1 an)",
-      "date_debut": "",
-      "description": "CHAUFFEUR LIVREUR AVEC DIPLOME EN MECANIQUE OU ELECTRICITE"
-    },
-    {
-      "id": "1133584",
-      "ref": "EL1806261133584",
-      "date": "18/06/2026",
-      "titre": "Gestionnaire Agricole",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1133584/resultat_recherche",
-      "agence": "EL JADIDA / Youssef",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien spécialisé",
-      "experience": "",
-      "date_debut": "24/06/2026",
-      "description": ""
-    },
-    {
-      "id": "1133518",
-      "ref": "EL1806261133518",
-      "date": "18/06/2026",
-      "titre": "Agent De Montage Assemblage De La Construction Mécanique",
-      "nb": "3",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1133518/resultat_recherche",
-      "agence": "EL JADIDA / EL BOUHALI",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien",
-      "experience": "(6 mois - 1 an)",
-      "date_debut": "29/06/2026",
-      "description": "Agent De Montage-assemblage De La Construction Mécanique"
     }
   ]
 }
