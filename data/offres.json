@@ -1,6 +1,6 @@
 {
-  "date_maj": "16/07/2026 à 09:04",
-  "total": 14,
+  "date_maj": "17/07/2026 à 16:24",
+  "total": 13,
   "offres": [
     {
       "id": "1145980",
@@ -51,22 +51,6 @@
       "description": ""
     },
     {
-      "id": "1144547",
-      "ref": "EL1307261144547",
-      "date": "13/07/2026",
-      "titre": "Agent De Sécurité (H)",
-      "nb": "50",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1144547/resultat_recherche",
-      "agence": "EL JADIDA / JADA",
-      "secteur": "",
-      "type_contrat": "CDD",
-      "formation": "Sans Diplome",
-      "experience": "(moins de 6 mois)",
-      "date_debut": "24/08/2026",
-      "description": ""
-    },
-    {
       "id": "1144706",
       "ref": "",
       "date": "13/07/2026",
@@ -83,20 +67,20 @@
       "description": "Missions : · Concevoir et planifier le système d’instrumentation et de monitoring géotechnique. · Définir les besoins, sélectionner les capteurs et fixer les seuils d’alerte. · Superviser l’installation, la mise en service et la calibration des instruments sur le chantier. · Contrôler la conformité des installations et coordonner les équipes et prestataires. · Assurer le suivi, l’analyse et l’interprétation des données de monitoring. · Établir des tableaux de bord, des rapports techniques et éme"
     },
     {
-      "id": "1143528",
-      "ref": "EL1007261143528",
-      "date": "10/07/2026",
-      "titre": "éducateur(ces) Du Préscolaire",
-      "nb": "13",
+      "id": "1144547",
+      "ref": "EL1307261144547",
+      "date": "13/07/2026",
+      "titre": "Agent De Sécurité (H)",
+      "nb": "50",
       "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1143528/resultat_recherche",
-      "agence": "EL JADIDA / EL BOUHALI",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1144547/resultat_recherche",
+      "agence": "EL JADIDA / JADA",
       "secteur": "",
       "type_contrat": "CDD",
-      "formation": "Baccalauréat",
-      "experience": "(6 mois - 1 an)",
-      "date_debut": "",
-      "description": "Baccalaureat Résidant aux communes rurales :sii Hssine Ben Abderrahmane/Sabt Saiss/Oulad Aissa/Oulad Ghanem/Zawyat Saiss/Laghdira/Sidi M'Hammed Akhdime/Chaibat/Sidi Abed"
+      "formation": "Sans Diplome",
+      "experience": "(moins de 6 mois)",
+      "date_debut": "24/08/2026",
+      "description": ""
     },
     {
       "id": "1142950",
@@ -115,22 +99,6 @@
       "description": ""
     },
     {
-      "id": "1139615",
-      "ref": "EL0307261139615",
-      "date": "03/07/2026",
-      "titre": "Assistante Administrative (F)",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1139615/resultat_recherche",
-      "agence": "EL JADIDA / JADA",
-      "secteur": "",
-      "type_contrat": "CI",
-      "formation": "Technicien spécialisé",
-      "experience": "(1 an - 2 ans)",
-      "date_debut": "13/07/2026",
-      "description": ""
-    },
-    {
       "id": "1139958",
       "ref": "EL0307261139958",
       "date": "03/07/2026",
@@ -144,6 +112,22 @@
       "formation": "Technicien",
       "experience": "",
       "date_debut": "03/08/2026",
+      "description": ""
+    },
+    {
+      "id": "1139615",
+      "ref": "EL0307261139615",
+      "date": "03/07/2026",
+      "titre": "Assistante Administrative (F)",
+      "nb": "1",
+      "lieu": "El Jadida",
+      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1139615/resultat_recherche",
+      "agence": "EL JADIDA / JADA",
+      "secteur": "",
+      "type_contrat": "CI",
+      "formation": "Technicien spécialisé",
+      "experience": "(1 an - 2 ans)",
+      "date_debut": "13/07/2026",
       "description": ""
     },
     {
