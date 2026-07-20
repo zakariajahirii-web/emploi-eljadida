@@ -1,6 +1,6 @@
 {
-  "date_maj": "17/07/2026 à 16:24",
-  "total": 13,
+  "date_maj": "20/07/2026 à 09:58",
+  "total": 12,
   "offres": [
     {
       "id": "1145980",
@@ -192,22 +192,6 @@
       "formation": "Technicien",
       "experience": "(moins de 6 mois)",
       "date_debut": "13/07/2026",
-      "description": ""
-    },
-    {
-      "id": "1137500",
-      "ref": "EL2906261137500",
-      "date": "29/06/2026",
-      "titre": "Assistante (F)",
-      "nb": "1",
-      "lieu": "El Jadida",
-      "url": "https://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/1137500/resultat_recherche",
-      "agence": "EL JADIDA / ZAIM",
-      "secteur": "",
-      "type_contrat": "CDD",
-      "formation": "Baccalauréat",
-      "experience": "",
-      "date_debut": "01/07/2026",
       "description": ""
     }
   ]
